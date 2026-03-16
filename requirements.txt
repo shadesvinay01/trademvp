@@ -1,0 +1,16 @@
+transformers
+torch
+textblob
+vaderSentiment
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tweepy
+requests
+beautifulsoup4
+plotly
+wordcloud
+ccxt
+streamlit
